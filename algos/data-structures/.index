@@ -1,5 +1,5 @@
 
 linkedlist-int.c
-linkedlist.h
+linkedlist-int.h
 deque.h
 deque.c
